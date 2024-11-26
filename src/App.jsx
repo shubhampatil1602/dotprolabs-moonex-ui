@@ -3,7 +3,7 @@ import Button from './components/Button';
 import { IoCloseSharp } from 'react-icons/io5';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import Footer from './components/Footer';
-import Faqs from './components/FAQs';
+import Faqs from './components/Faqs';
 import OurFeatures from './components/OurFeatures';
 import Table from './components/Table';
 
